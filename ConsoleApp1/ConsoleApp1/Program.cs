@@ -13,8 +13,6 @@ namespace ConsoleApp1
             Console.WriteLine("你真是个大笨蛋");
 
             Console.WriteLine("你就是个猪");
-            Console.WriteLine("你就是个猪");
-            Console.WriteLine("你就是个猪");
         }
     }
 }
