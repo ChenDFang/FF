@@ -11,6 +11,10 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("你真是个大笨蛋");
+
+            Console.WriteLine("你就是个猪");
+            Console.WriteLine("你就是个猪");
+            Console.WriteLine("你就是个猪");
         }
     }
 }
